@@ -5,6 +5,8 @@ using MvcMusicStore.Models;
 
 namespace MvcMusicStore.Controllers
 {
+    // This is the HomeController which controls the entry and exit points of this web application
+
     public class HomeController : Controller
     {
         // GET: /Home/
